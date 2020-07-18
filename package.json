@@ -1,0 +1,22 @@
+{
+  "name": "la-bolivianita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "12.16.3",
+    "npm": "6.14.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mysql": "^2.18.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
